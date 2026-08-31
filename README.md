@@ -1,0 +1,1 @@
+**CogniDeploy.cd - files with CI CD rules for AI
